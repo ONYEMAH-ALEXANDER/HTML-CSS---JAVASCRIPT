@@ -1,0 +1,40 @@
+body {
+    background-color:blue;
+}
+
+h1{
+    background-color: Yellow;
+    color: Blue;
+    text-align: center;
+    font-family: newtimes-roman;
+    font-size: 23px;
+}
+
+p{ background-color: green;
+    color: red;
+    text-align: center;
+    font-family: newtimes-roman;
+    font-size: 30px;
+
+}
+
+h2{ background-color: pink;
+    color: purple;
+    text-align: center;
+    font-family: newtimes-roman;
+    font-size: 25px;
+
+}
+h3 { background-color: pink;
+    color: purple;
+    text-align: center;
+    font-family: newtimes-roman;
+    font-size: 28px;
+}
+
+h4 { background-color: brown;
+    color: purple;
+    text-align: center;
+    font-family: newtimes-roman;
+    font-size: 25px;
+}
