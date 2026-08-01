@@ -1,6 +1,7 @@
-//01. Write an if statement that displays "Welcome" when age is 18 or above.//
-let age = 18;
+//02. What will this code display?
 
-if (age >= 18) {
-  console.log("Welcome");
+let temperature = 35;
+
+if (temperature > 30) {
+  console.log("It is hot");
 }
